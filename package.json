@@ -1,0 +1,25 @@
+{
+  "name": "nauka-gita2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willejka/nauka-gita2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willejka/nauka-gita2/issues"
+  },
+  "homepage": "https://github.com/willejka/nauka-gita2#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.23.5",
+    "nu-html-checker": "^0.1.0"
+  }
+}
